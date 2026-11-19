@@ -1,50 +1,30 @@
-# Awesome-AI-Music-Generation-Songwriting
+# Awesome AI Music Generation & Songwriting
 
-## Top AI Music Generation & Songwriting Ecosystem
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-AI-Music-Generation-Songwriting/pulls)
+[![Last Updated](https://img.shields.io/badge/Updated-November_2026-blue.svg)](https://github.com/ishandutta2007/Awesome-AI-Music-Generation-Songwriting)
 
+> An SEO-indexed, curated directory of the best **AI Music Generation tools**, **AI Songwriting platforms**, and **open-source audio machine learning foundation models**. Covers text-to-music models, AI singing voice synthesis (SVS), stem separation, neural audio workstations, MIDI composition, and local inference pipelines.
 
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Full-Song Vocal & Instrumental Synthesis, Lyrics-to-Music Models, Stem Separation, MIDI Composition & Local Audio Generation Pipelines*  
-
-**Last updated: November 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Music Generation & Songwriting**. These tools compose complete songs with expressive vocals and lyrics from text prompts, generate royalty-free adaptive soundtracks, synthesize multi-track MIDI arrangements, isolate stems, and run open-weight music foundation models locally.
-
-
-
-**Examples** include Suno AI, Udio, Soundraw, Boomy, Beatoven.ai, Loudly, AIVA, Soundful, Mubert, Splash Pro, and multimodal-art-projection/YuE (the category leaders). 
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for open-weight lyrics-to-song foundation models (`YuE`, `ACE-Step`, `DiffRhythm`, `SongGen`), instrumental & foley audio generators (`AudioCraft / MusicGen`, `Stable Audio Open`, `Riffusion`), singing voice synthesis (`DiffSinger`, `Fish Speech`), and stem separation/DAW toolkits (`Demucs`, `LMMS`, `Audacity`) — ideal for musicians, producers, game audio designers, and audio ML researchers.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
+---
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS / Hosted AI Music Platforms](#saas--hosted-ai-music-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
+- [Recommended Custom Studio Pipelines](#recommended-custom-studio-pipelines)
 - [How to Contribute](#how-to-contribute)
+- [License & Disclaimer](#license--disclaimer)
 
-- [Disclaimer](#disclaimer)
-
-
+---
 
 ## Sector Overview & Market Dynamics
 
 The global AI music and audio generation market is currently valued between **$450 million and $2.9 billion** (with the broader AI music sector surpassing **$5.5 billion**), rapidly expanding at a compound annual growth rate (**CAGR**) of **22% – 31%** toward an estimated **$14B – $22B+** by the mid-2030s. The sector is characterized by **moderate fragmentation**: while early-stage platforms, boutique composition tools, and specialized stem/VST plugins compete across diverse creator workflows, category leaders like Suno and Udio increasingly capture dominant consumer mindshare and multi-billion dollar valuations alongside major music labels setting licensing terms.
 
-## SaaS/Hosted Platforms
+## SaaS / Hosted AI Music Platforms
 
 | Platform | Estimated Scale / Valuation / Revenue | Starting Paid Price | Free Tier / Trial Limit | Key Highlights & Songwriting Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
@@ -153,12 +133,32 @@ Curated collection of open-source AI music generation models, vocal synthesis to
 
 
 
-**Frameworks for building custom systems**: Combine **YuE (`multimodal-art-projection/YuE`)** or **ACE-Step / DiffRhythm** (full vocal song synthesis) with **Stable Audio Open / MusicGen** (instrumentals & loops), **Demucs** (stem separation), **Basic Pitch** (audio-to-MIDI), and **Matchering + LMMS/Audacity** (mixing & mastering) for a complete, royalty-free open-source AI music studio.
+## Recommended Custom Studio Pipelines
 
+Build a complete, royalty-free, locally runnable AI music workstation by pairing open-source models across each phase of production:
 
+1. **Full-Song Generation & Lyrics-to-Music**: Use [YuE](https://github.com/multimodal-art-projection/YuE), [ACE-Step](https://github.com/ace-step/ACE-Step), or [DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) for full song compositions with vocal arrangements.
+2. **Singing Voice Synthesis & Timbre Conversion**: Use [Fish Speech](https://github.com/fishaudio/fish-speech), [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI), or [DiffSinger](https://github.com/openvpi/DiffSinger) inside [OpenUtau](https://github.com/openutau/OpenUtau).
+3. **Loops, Ambient & Sound FX**: Generate high-fidelity instrumentals via [Stable Audio Open](https://github.com/Stability-AI/stable-audio-tools), [AudioCraft / MusicGen](https://github.com/facebookresearch/audiocraft), or [AudioLDM 2](https://github.com/haoheliu/AudioLDM2).
+4. **Stem Separation**: Deconstruct tracks into pristine acapella, drums, bass, and synth stems via [Ultimate Vocal Remover (UVR)](https://github.com/Anjok07/ultimatevocalremovergui) or [Demucs](https://github.com/facebookresearch/demucs).
+5. **Audio-to-MIDI & Sheet Music**: Transcribe melodies into editable notation via [Basic Pitch](https://github.com/spotify/basic-pitch) and arrange in [MuseScore Studio](https://github.com/musescore/MuseScore).
+6. **DAW Sequencing, Mixing & Mastering**: Arrange in [LMMS](https://github.com/LMMS/lmms) or [Audacity](https://github.com/audacity/audacity) / [Ardour](https://github.com/Ardour/ardour), polish with [Spotify Pedalboard](https://github.com/spotify/pedalboard), and perform automated reference-mastering with [Matchering](https://github.com/sergree/matchering).
+
+---
 
 ## How to Contribute
 
+Contributions are warmly welcomed! To contribute:
 
+1. Fork this repository.
+2. Create a new branch: `git checkout -b feature/add-new-tool`.
+3. Add the SaaS platform or open-source repository (ensuring accurate pricing/limits for SaaS and correct stargazer badges for open-source repos).
+4. Commit your changes: `git commit -m "Add [Tool Name]"`.
+5. Push to your fork and submit a Pull Request.
 
-1. Fork the repo.
+---
+
+## License & Disclaimer
+
+- **License**: Distributed under the [MIT License](file:///C:/Users/ishan/Documents/Projects/Awesome-AI-Music-Generation-Songwriting/LICENSE).
+- **Disclaimer**: Trademarks and brand logos belong to their respective copyright holders. Listed pricing and free tier allowances reflect publicly available information as of late 2026 and are subject to change by each service provider.
