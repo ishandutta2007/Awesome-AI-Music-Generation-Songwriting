@@ -40,67 +40,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global AI music and audio generation market is currently valued between **$450 million and $2.9 billion** (with the broader AI music sector surpassing **$5.5 billion**), rapidly expanding at a compound annual growth rate (**CAGR**) of **22% – 31%** toward an estimated **$14B – $22B+** by the mid-2030s. The sector is characterized by **moderate fragmentation**: while early-stage platforms, boutique composition tools, and specialized stem/VST plugins compete across diverse creator workflows, category leaders like Suno and Udio increasingly capture dominant consumer mindshare and multi-billion dollar valuations alongside major music labels setting licensing terms.
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[Suno AI](https://suno.com)**  
-
-  Flagship cloud AI music and songwriting studio generating complete multi-minute songs with realistic vocals, custom lyrics, instrumentation, stem exports, and audio-to-song remixes.
-
-
-
-- **[Udio](https://udio.com)**  
-
-  High-fidelity generative music and vocal songwriting platform offering granular section extension, inpainting, lyric timing controls, and multi-track stem downloads.
-
-
-
-- **[Soundraw](https://soundraw.io)**  
-
-  AI music generator built for creators and video producers allowing real-time customization of song structure, energy, tempo, and individual instrument stems.
-
-
-
-- **[Boomy](https://boomy.com)**  
-
-  Accessible cloud AI music creation and distribution platform enabling users to generate original tracks in seconds, customize arrangements, and release to streaming services.
-
-
-
-- **[Beatoven.ai](https://beatoven.ai)**  
-
-  Mood-based AI soundtrack and background music generator tailored for video editors, podcasters, and game developers with per-section emotion and instrumentation controls.
-
-
-
-- **[Loudly](https://loudly.com)**  
-
-  AI music studio and royalty-free catalog combining text-to-music generation, genre blending, stem separation, and commercial licensing for digital creators.
-
-
-
-- **[AIVA (Artificial Intelligence Virtual Artist)](https://aiva.ai)**  
-
-  AI music composition assistant specialized in orchestral, cinematic, electronic, and game soundtracks with deep MIDI/sheet-music editing and custom style profiles.
-
-
-
-- **[Soundful](https://soundful.com)**  
-
-  Cloud AI music generation platform producing studio-grade, royalty-free background tracks and loops customizable by BPM, musical key, and genre templates.
-
-
-
-- **[Mubert](https://mubert.com)**  
-
-  Generative AI music ecosystem and API streaming endless, adaptive, royalty-free soundscapes for apps, games, live streams, and content creators.
-
-
-
-- **[Splash Pro](https://splashmusic.com)**  
-
-  AI music and vocal generation platform enabling creators to compose custom beats, sing or rap custom lyrics via AI vocalists, and export stems.
+| Platform | Estimated Scale / Valuation / Revenue | Starting Paid Price | Free Tier / Trial Limit | Key Highlights & Songwriting Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Suno AI](https://suno.com)** | **$5.4B** Valuation (Series D, June 2026; ~$300M ARR) | $10/mo ($8/mo billed annually) | 50 credits/day (~10 song parts/day, non-commercial only) | Flagship cloud studio for generating complete multi-minute vocal songs, custom lyrics, stem splits, and audio-to-song remixes. |
+| **[Udio](https://udio.com)** | **~$40M - $100M** Valuation (~$10M seed funding, a16z) | $10/mo ($8/mo billed annually) | 10 credits/day + 100 backup pool/mo (max 3 long tracks/day, personal use) | High-fidelity vocal and musical generation with section extension, audio inpainting, lyric timing, and stem separation. |
+| **[Boomy](https://boomy.com)** | **$80M** Valuation ($5.4M+ funding; $1M-$10M ARR) | $9.99/mo | Free forever: Create & edit up to 25 saved tracks (no downloads or commercial releases) | Accessible generator for instant genre beats, vocal arrangements, and direct streaming distribution. |
+| **[Splash Pro](https://splashmusic.com)** | **$20M - $27M** Funding ($10M-$50M est. revenue) | $10/mo (Starter tier) | Free forever: Text-to-song experimentation with standard length & basic vocalists (no WAV/stems, personal use) | AI vocals and beat generation toolkit combining text-to-music, custom lyric vocalists, and Roblox/gaming integration. |
+| **[Soundraw](https://soundraw.io)** | **$5.01M** Funding (Series A; est. <$5M revenue) | $16.99/mo ($12.99/mo billed annually) | Free forever: Unlimited track generation & preview customization (0 downloads allowed without paid plan) | Dynamic creator tool for real-time arrangement, tempo manipulation, instrument muting, and video background music. |
+| **[Beatoven.ai](https://beatoven.ai)** | **$2.5M - $15.5M** Funding (~$2.5M ARR) | $9/mo (Creator tier) | Free forever: Unlimited composition & previewing, with ~15 mins monthly download allocation (attribution required) | Mood-based soundtrack generator for video editors and indie game devs with section-by-section emotion and cut controls. |
+| **[Soundful](https://soundful.com)** | **$3.8M** Funding (~$1.6M ARR) | $9.99/mo ($4.99/mo billed annually) | Free forever: Unlimited generations from 25+ templates, restricted to 1 MP3 download/month (personal use, credit required) | Studio-grade loops and royalty-free instrumental generation customized by musical scale, key, and BPM. |
+| **[Mubert](https://mubert.com)** | **$2.6M - $3.6M** Funding (~$1.6M ARR) | $21/mo ($11.69/mo billed annually for Creator) | Free forever (Ambassador Plan): 25 generated tracks/month (watermarked, personal use with attribution) | Generative streaming music engine and B2B API delivering adaptive, infinite soundscapes for games, live streams, and apps. |
+| **[AIVA](https://aiva.ai)** | **$1.5M - $2.5M** Funding (~$1M-$2.3M ARR) | €15/mo (~$16/mo; €11/mo billed annually) | Free forever: 3 downloads/month, max 3 min track length, MP3/MIDI only (non-commercial, AIVA owns copyright) | AI virtual composer specialized in classical, cinematic symphonies, and game tracks with full MIDI/sheet-music export. |
+| **[Loudly](https://loudly.com)** | Early-stage venture (<$2M est. funding / ARR) | $9.99/mo ($5.99/mo billed annually) | Free forever: 30-second generations and 1 song download/month for testing and personal evaluation | AI music creator combining text prompts, 100% royalty-free loop blends, stem export, and genre crossovers. |
 
 
 
