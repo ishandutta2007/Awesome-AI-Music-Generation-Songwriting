@@ -1,30 +1,41 @@
-# Awesome AI Music Generation & Songwriting
+# Awesome AI Music Generation & Songwriting 🎵🎹
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-AI-Music-Generation-Songwriting/pulls)
-[![Last Updated](https://img.shields.io/badge/Updated-November_2026-blue.svg)](https://github.com/ishandutta2007/Awesome-AI-Music-Generation-Songwriting)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Music Generation and Songwriting Banner" width="100%" />
+</p>
 
-> An SEO-indexed, curated directory of the best **AI Music Generation tools**, **AI Songwriting platforms**, and **open-source audio machine learning foundation models**. Covers text-to-music models, AI singing voice synthesis (SVS), stem separation, neural audio workstations, MIDI composition, and local inference pipelines.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Music-Generation-Songwriting/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Music-Generation-Songwriting"><img src="https://img.shields.io/badge/Updated-November_2026-blue.svg" alt="Last Updated" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS / Hosted AI Music Platforms](#saas--hosted-ai-music-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Recommended Custom Studio Pipelines](#recommended-custom-studio-pipelines)
-- [How to Contribute](#how-to-contribute)
-- [License & Disclaimer](#license--disclaimer)
+> 🎧 **An SEO-indexed, curated directory** of the best **AI Music Generation tools**, **AI Songwriting platforms**, and **open-source audio ML foundation models**. Covers text-to-music models, AI singing voice synthesis (SVS), stem separation, neural audio workstations, MIDI composition, and local inference pipelines. 🎶
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
+
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted AI Music Platforms](#️-saas--hosted-ai-music-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Recommended Custom Studio Pipelines](#️-recommended-custom-studio-pipelines)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📜 License & Disclaimer](#-license--disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
 
 The global AI music and audio generation market is currently valued between **$450 million and $2.9 billion** (with the broader AI music sector surpassing **$5.5 billion**), rapidly expanding at a compound annual growth rate (**CAGR**) of **22% – 31%** toward an estimated **$14B – $22B+** by the mid-2030s. The sector is characterized by **moderate fragmentation**: while early-stage platforms, boutique composition tools, and specialized stem/VST plugins compete across diverse creator workflows, category leaders like Suno and Udio increasingly capture dominant consumer mindshare and multi-billion dollar valuations alongside major music labels setting licensing terms.
 
-## SaaS / Hosted AI Music Platforms
+## ☁️ SaaS / Hosted AI Music Platforms
 
 | Platform | Estimated Scale / Valuation / Revenue | Starting Paid Price | Free Tier / Trial Limit | Key Highlights & Songwriting Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
@@ -43,7 +54,7 @@ The global AI music and audio generation market is currently valued between **$4
 
 
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 Curated collection of open-source AI music generation models, vocal synthesis tools, stem separators, and symbolic composition frameworks, sorted by GitHub stargazers count:
 
@@ -133,7 +144,7 @@ Curated collection of open-source AI music generation models, vocal synthesis to
 
 
 
-## Recommended Custom Studio Pipelines
+## 🛠️ Recommended Custom Studio Pipelines
 
 Build a complete, royalty-free, locally runnable AI music workstation by pairing open-source models across each phase of production:
 
@@ -146,19 +157,36 @@ Build a complete, royalty-free, locally runnable AI music workstation by pairing
 
 ---
 
-## How to Contribute
+## 💖 Support & Sponsorship
 
-Contributions are warmly welcomed! To contribute:
+Thank you so much for exploring this curated AI music collection! 🎵 If you found this repository helpful for your creative workflows, music production, or AI audio research:
 
-1. Fork this repository.
-2. Create a new branch: `git checkout -b feature/add-new-tool`.
-3. Add the SaaS platform or open-source repository (ensuring accurate pricing/limits for SaaS and correct stargazer badges for open-source repos).
-4. Commit your changes: `git commit -m "Add [Tool Name]"`.
-5. Push to your fork and submit a Pull Request.
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and contribute** your favorite new tools, models, and audio experiments.
+- 📢 **Share with fellow musicians, producers, and audio engineers** on Twitter, Discord, and Reddit.
+- ☕ **Buy me a coffee / Sponsor the project**: Support continuous curation and maintenance on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
-## License & Disclaimer
+##  Star History
 
-- **License**: Distributed under the [MIT License](file:///C:/Users/ishan/Documents/Projects/Awesome-AI-Music-Generation-Songwriting/LICENSE).
-- **Disclaimer**: Trademarks and brand logos belong to their respective copyright holders. Listed pricing and free tier allowances reflect publicly available information as of late 2026 and are subject to change by each service provider.
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-AI-Music-Generation-Songwriting&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-AI-Music-Generation-Songwriting&type=date&legend=top-left)
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! 🎉 To contribute:
+
+1. 🍴 Fork this repository.
+2. 🌿 Create a new branch: `git checkout -b feature/add-new-tool`.
+3. 📝 Add the SaaS platform or open-source repository (ensuring accurate pricing/limits for SaaS and correct stargazer badges for open-source repos).
+4. 💾 Commit your changes: `git commit -m "Add [Tool Name]"`.
+5. 🚀 Push to your fork and submit a Pull Request.
+
+---
+
+## 📜 License & Disclaimer
+
+- ⚖️ **License**: Distributed under the [MIT License](file:///C:/Users/ishan/Documents/Projects/Awesome-AI-Music-Generation-Songwriting/LICENSE).
+- 📌 **Disclaimer**: Trademarks and brand logos belong to their respective copyright holders. Listed pricing and free tier allowances reflect publicly available information as of late 2026 and are subject to change by each service provider.
