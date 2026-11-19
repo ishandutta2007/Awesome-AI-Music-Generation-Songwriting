@@ -58,88 +58,88 @@ The global AI music and audio generation market is currently valued between **$4
 
 Curated collection of open-source AI music generation models, vocal synthesis tools, stem separators, and symbolic composition frameworks, sorted by GitHub stargazers count:
 
-- **[Bark (`suno-ai/bark`)](https://github.com/suno-ai/bark)** [![GitHub stars](https://img.shields.io/github/stars/suno-ai/bark?style=social&color=white)](https://github.com/suno-ai/bark/stargazers)  
+- **[Bark (`suno-ai/bark`)](https://github.com/suno-ai/bark)** [![GitHub_Stars](https://img.shields.io/github/stars/suno-ai/bark?style=social&color=white)](https://github.com/suno-ai/bark/stargazers)  
   Open-source (`MIT`) transformer-based text-to-audio model from Suno capable of generating realistic speech, singing vocals, background acoustics, and musical cues.
 
-- **[RVC — Retrieval-based Voice Conversion (`RVC-Project/Retrieval-based-Voice-Conversion-WebUI`)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)** [![GitHub stars](https://img.shields.io/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI?style=social&color=white)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/stargazers)  
+- **[RVC — Retrieval-based Voice Conversion (`RVC-Project/Retrieval-based-Voice-Conversion-WebUI`)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)** [![GitHub_Stars](https://img.shields.io/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI?style=social&color=white)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/stargazers)  
   High-performance, easy-to-use voice conversion framework popular for converting vocal tracks into diverse singing voices and timbre styles using VITS neural networks.
 
-- **[Fish Speech (`fishaudio/fish-speech`)](https://github.com/fishaudio/fish-speech)** [![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social&color=white)](https://github.com/fishaudio/fish-speech/stargazers)  
+- **[Fish Speech (`fishaudio/fish-speech`)](https://github.com/fishaudio/fish-speech)** [![GitHub_Stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social&color=white)](https://github.com/fishaudio/fish-speech/stargazers)  
   Leading open-source multilingual neural voice and vocal synthesis system built on dual-autoregressive and VQ-GAN architectures with zero-shot voice cloning capabilities.
 
-- **[UVR — Ultimate Vocal Remover (`Anjok07/ultimatevocalremovergui`)](https://github.com/Anjok07/ultimatevocalremovergui)** [![GitHub stars](https://img.shields.io/github/stars/Anjok07/ultimatevocalremovergui?style=social&color=white)](https://github.com/Anjok07/ultimatevocalremovergui/stargazers)  
+- **[UVR — Ultimate Vocal Remover (`Anjok07/ultimatevocalremovergui`)](https://github.com/Anjok07/ultimatevocalremovergui)** [![GitHub_Stars](https://img.shields.io/github/stars/Anjok07/ultimatevocalremovergui?style=social&color=white)](https://github.com/Anjok07/ultimatevocalremovergui/stargazers)  
   Core open-source (`MIT`) desktop GUI application bundling leading deep-learning vocal and instrument separation models (`MDX-Net`, `Demucs v4`, `VR Arch`) for clean remixing and stem extraction.
 
-- **[AudioCraft / MusicGen (`facebookresearch/audiocraft`)](https://github.com/facebookresearch/audiocraft)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social&color=white)](https://github.com/facebookresearch/audiocraft/stargazers)  
+- **[AudioCraft / MusicGen (`facebookresearch/audiocraft`)](https://github.com/facebookresearch/audiocraft)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social&color=white)](https://github.com/facebookresearch/audiocraft/stargazers)  
   Foundational open-source (`MIT` code / `CC-BY-NC` weights) PyTorch library from Meta featuring `MusicGen` (text- and melody-conditioned music generation), `AudioGen`, and `EnCodec`.
 
-- **[Magenta (`magenta/magenta`)](https://github.com/magenta/magenta)** [![GitHub stars](https://img.shields.io/github/stars/magenta/magenta?style=social&color=white)](https://github.com/magenta/magenta/stargazers)  
+- **[Magenta (`magenta/magenta`)](https://github.com/magenta/magenta)** [![GitHub_Stars](https://img.shields.io/github/stars/magenta/magenta?style=social&color=white)](https://github.com/magenta/magenta/stargazers)  
   Foundational open-source (`Apache-2.0`) research suite from Google exploring deep learning for symbolic MIDI songwriting, chord progression modeling, and drum groove humanization.
 
-- **[Audacity (`audacity/audacity`)](https://github.com/audacity/audacity)** [![GitHub stars](https://img.shields.io/github/stars/audacity/audacity?style=social&color=white)](https://github.com/audacity/audacity/stargazers)  
+- **[Audacity (`audacity/audacity`)](https://github.com/audacity/audacity)** [![GitHub_Stars](https://img.shields.io/github/stars/audacity/audacity?style=social&color=white)](https://github.com/audacity/audacity/stargazers)  
   Iconic open-source (`GPL-3.0`) multitrack audio workstation enhanced with Intel OpenVINO deep learning AI plugins for local MusicGen generation, stem separation, and noise suppression.
 
-- **[MuseScore Studio (`musescore/MuseScore`)](https://github.com/musescore/MuseScore)** [![GitHub stars](https://img.shields.io/github/stars/musescore/MuseScore?style=social&color=white)](https://github.com/musescore/MuseScore/stargazers)  
+- **[MuseScore Studio (`musescore/MuseScore`)](https://github.com/musescore/MuseScore)** [![GitHub_Stars](https://img.shields.io/github/stars/musescore/MuseScore?style=social&color=white)](https://github.com/musescore/MuseScore/stargazers)  
   World-leading open-source (`GPL-3.0`) musical score notation and engraving application for composing, arranging, and rendering orchestral sheet music and multi-instrument arrangements.
 
-- **[YuE (`multimodal-art-projection/YuE`)](https://github.com/multimodal-art-projection/YuE)** [![GitHub stars](https://img.shields.io/github/stars/multimodal-art-projection/YuE?style=social&color=white)](https://github.com/multimodal-art-projection/YuE/stargazers)  
+- **[YuE (`multimodal-art-projection/YuE`)](https://github.com/multimodal-art-projection/YuE)** [![GitHub_Stars](https://img.shields.io/github/stars/multimodal-art-projection/YuE?style=social&color=white)](https://github.com/multimodal-art-projection/YuE/stargazers)  
   Breakthrough open-source (`Apache-2.0`) lyrics-to-song foundation model family capable of synthesizing multi-minute full songs with rich accompaniment and lead/backing vocals from text prompts.
 
-- **[LMMS (`LMMS/lmms`)](https://github.com/LMMS/lmms)** [![GitHub stars](https://img.shields.io/github/stars/LMMS/lmms?style=social&color=white)](https://github.com/LMMS/lmms/stargazers)  
+- **[LMMS (`LMMS/lmms`)](https://github.com/LMMS/lmms)** [![GitHub_Stars](https://img.shields.io/github/stars/LMMS/lmms?style=social&color=white)](https://github.com/LMMS/lmms/stargazers)  
   Free, cross-platform open-source (`GPL-2.0`) digital audio workstation for beatmaking, MIDI sequencing, sound design, and assembling AI-generated stems into finished songs.
 
-- **[Demucs (`facebookresearch/demucs`)](https://github.com/facebookresearch/demucs)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/demucs?style=social&color=white)](https://github.com/facebookresearch/demucs/stargazers)  
+- **[Demucs (`facebookresearch/demucs`)](https://github.com/facebookresearch/demucs)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/demucs?style=social&color=white)](https://github.com/facebookresearch/demucs/stargazers)  
   Industry-standard open-source (`MIT`) Hybrid Transformer music source separation toolkit that cleanly separates mixed audio into drums, bass, vocals, and other stems.
 
-- **[Pedalboard (`spotify/pedalboard`)](https://github.com/spotify/pedalboard)** [![GitHub stars](https://img.shields.io/github/stars/spotify/pedalboard?style=social&color=white)](https://github.com/spotify/pedalboard/stargazers)  
+- **[Pedalboard (`spotify/pedalboard`)](https://github.com/spotify/pedalboard)** [![GitHub_Stars](https://img.shields.io/github/stars/spotify/pedalboard?style=social&color=white)](https://github.com/spotify/pedalboard/stargazers)  
   Spotify's open-source (`GPL-3.0`) high-speed Python audio effects processing library supporting VST3/AU plugins, spatial reverb, delays, and mastering chains for generated stems.
 
-- **[Basic Pitch (`spotify/basic-pitch`)](https://github.com/spotify/basic-pitch)** [![GitHub stars](https://img.shields.io/github/stars/spotify/basic-pitch?style=social&color=white)](https://github.com/spotify/basic-pitch/stargazers)  
+- **[Basic Pitch (`spotify/basic-pitch`)](https://github.com/spotify/basic-pitch)** [![GitHub_Stars](https://img.shields.io/github/stars/spotify/basic-pitch?style=social&color=white)](https://github.com/spotify/basic-pitch/stargazers)  
   Lightweight, fast neural network library from Spotify for polyphonic audio-to-MIDI transcription with note pitch-bend detection.
 
-- **[Ardour (`Ardour/ardour`)](https://github.com/Ardour/ardour)** [![GitHub stars](https://img.shields.io/github/stars/Ardour/ardour?style=social&color=white)](https://github.com/Ardour/ardour/stargazers)  
+- **[Ardour (`Ardour/ardour`)](https://github.com/Ardour/ardour)** [![GitHub_Stars](https://img.shields.io/github/stars/Ardour/ardour?style=social&color=white)](https://github.com/Ardour/ardour/stargazers)  
   Professional-grade open-source (`GPL-2.0`) digital audio workstation for audio engineers, multi-track recording, MIDI arranging, and advanced mixing/mastering of synthetic tracks.
 
-- **[ACE-Step (`ace-step/ACE-Step`)](https://github.com/ace-step/ACE-Step)** [![GitHub stars](https://img.shields.io/github/stars/ace-step/ACE-Step?style=social&color=white)](https://github.com/ace-step/ACE-Step/stargazers)  
+- **[ACE-Step (`ace-step/ACE-Step`)](https://github.com/ace-step/ACE-Step)** [![GitHub_Stars](https://img.shields.io/github/stars/ace-step/ACE-Step?style=social&color=white)](https://github.com/ace-step/ACE-Step/stargazers)  
   Accelerated linear Transformer and diffusion song generation foundation model with localized lyric editing, infilling, and extension.
 
-- **[OpenUtau (`openutau/OpenUtau`)](https://github.com/openutau/OpenUtau)** [![GitHub stars](https://img.shields.io/github/stars/openutau/OpenUtau?style=social&color=white)](https://github.com/openutau/OpenUtau/stargazers)  
+- **[OpenUtau (`openutau/OpenUtau`)](https://github.com/openutau/OpenUtau)** [![GitHub_Stars](https://img.shields.io/github/stars/openutau/OpenUtau?style=social&color=white)](https://github.com/openutau/OpenUtau/stargazers)  
   Modern open-source (`MIT`) singing synthesizer DAW and vocal editor supporting DiffSinger, ENUNU, and traditional UTAU voicebanks with pitch-curve editing.
 
-- **[Stable Audio Open (`Stability-AI/stable-audio-tools`)](https://github.com/Stability-AI/stable-audio-tools)** [![GitHub stars](https://img.shields.io/github/stars/Stability-AI/stable-audio-tools?style=social&color=white)](https://github.com/Stability-AI/stable-audio-tools/stargazers)  
+- **[Stable Audio Open (`Stability-AI/stable-audio-tools`)](https://github.com/Stability-AI/stable-audio-tools)** [![GitHub_Stars](https://img.shields.io/github/stars/Stability-AI/stable-audio-tools?style=social&color=white)](https://github.com/Stability-AI/stable-audio-tools/stargazers)  
   Latent diffusion model from Stability AI producing high-resolution 44.1kHz stereo audio samples, instrument riffs, drum patterns, and ambient soundscapes up to 47 seconds long.
 
-- **[Riffusion (`riffusion/riffusion-hobby`)](https://github.com/riffusion/riffusion-hobby)** [![GitHub stars](https://img.shields.io/github/stars/riffusion/riffusion-hobby?style=social&color=white)](https://github.com/riffusion/riffusion-hobby/stargazers)  
+- **[Riffusion (`riffusion/riffusion-hobby`)](https://github.com/riffusion/riffusion-hobby)** [![GitHub_Stars](https://img.shields.io/github/stars/riffusion/riffusion-hobby?style=social&color=white)](https://github.com/riffusion/riffusion-hobby/stargazers)  
   Real-time music generation technique utilizing Stable Diffusion fine-tuned on audio spectrograms to generate looping grooves and continuous audio transitions.
 
-- **[DiffSinger (`openvpi/DiffSinger`)](https://github.com/openvpi/DiffSinger)** [![GitHub stars](https://img.shields.io/github/stars/openvpi/DiffSinger?style=social&color=white)](https://github.com/openvpi/DiffSinger/stargazers)  
+- **[DiffSinger (`openvpi/DiffSinger`)](https://github.com/openvpi/DiffSinger)** [![GitHub_Stars](https://img.shields.io/github/stars/openvpi/DiffSinger?style=social&color=white)](https://github.com/openvpi/DiffSinger/stargazers)  
   Acoustic singing-voice synthesis framework converting musical scores and lyrics into natural, expressive singing vocals via score-conditioned diffusion models.
 
-- **[Matchering (`sergree/matchering`)](https://github.com/sergree/matchering)** [![GitHub stars](https://img.shields.io/github/stars/sergree/matchering?style=social&color=white)](https://github.com/sergree/matchering/stargazers)  
+- **[Matchering (`sergree/matchering`)](https://github.com/sergree/matchering)** [![GitHub_Stars](https://img.shields.io/github/stars/sergree/matchering?style=social&color=white)](https://github.com/sergree/matchering/stargazers)  
   Automated audio mastering container using target reference tracks to match frequency spectrum, loudness, and dynamics across AI tracks.
 
-- **[AudioLDM 2 (`haoheliu/AudioLDM2`)](https://github.com/haoheliu/AudioLDM2)** [![GitHub stars](https://img.shields.io/github/stars/haoheliu/AudioLDM2?style=social&color=white)](https://github.com/haoheliu/AudioLDM2/stargazers)  
+- **[AudioLDM 2 (`haoheliu/AudioLDM2`)](https://github.com/haoheliu/AudioLDM2)** [![GitHub_Stars](https://img.shields.io/github/stars/haoheliu/AudioLDM2?style=social&color=white)](https://github.com/haoheliu/AudioLDM2/stargazers)  
   Versatile latent text-to-audio and text-to-music diffusion architecture conditioned on Language of Audio (LOA) representations.
 
-- **[DiffRhythm (`ASLP-lab/DiffRhythm`)](https://github.com/ASLP-lab/DiffRhythm)** [![GitHub stars](https://img.shields.io/github/stars/ASLP-lab/DiffRhythm?style=social&color=white)](https://github.com/ASLP-lab/DiffRhythm/stargazers)  
+- **[DiffRhythm (`ASLP-lab/DiffRhythm`)](https://github.com/ASLP-lab/DiffRhythm)** [![GitHub_Stars](https://img.shields.io/github/stars/ASLP-lab/DiffRhythm?style=social&color=white)](https://github.com/ASLP-lab/DiffRhythm/stargazers)  
   Ultra-fast latent diffusion full-song generation model synthesizing full 4-minute songs with lyrics and backing tracks in seconds on consumer GPUs.
 
-- **[MMAudio (`hkchengrex/MMAudio`)](https://github.com/hkchengrex/MMAudio)** [![GitHub stars](https://img.shields.io/github/stars/hkchengrex/MMAudio?style=social&color=white)](https://github.com/hkchengrex/MMAudio/stargazers)  
+- **[MMAudio (`hkchengrex/MMAudio`)](https://github.com/hkchengrex/MMAudio)** [![GitHub_Stars](https://img.shields.io/github/stars/hkchengrex/MMAudio?style=social&color=white)](https://github.com/hkchengrex/MMAudio/stargazers)  
   Multimodal generative model for synchronized soundtrack and ambient audio generation driven by video frames and textual guidance.
 
-- **[MT3 (`magenta/mt3`)](https://github.com/magenta/mt3)** [![GitHub stars](https://img.shields.io/github/stars/magenta/mt3?style=social&color=white)](https://github.com/magenta/mt3/stargazers)  
+- **[MT3 (`magenta/mt3`)](https://github.com/magenta/mt3)** [![GitHub_Stars](https://img.shields.io/github/stars/magenta/mt3?style=social&color=white)](https://github.com/magenta/mt3/stargazers)  
   Multi-task multitrack music transcription framework converting polyphonic and multi-instrument audio mixes into expressive symbolic MIDI.
 
-- **[TTS-Audio-Suite / ComfyUI-Audio (`diodiogod/TTS-Audio-Suite`)](https://github.com/diodiogod/TTS-Audio-Suite)** [![GitHub stars](https://img.shields.io/github/stars/diodiogod/TTS-Audio-Suite?style=social&color=white)](https://github.com/diodiogod/TTS-Audio-Suite/stargazers)  
+- **[TTS-Audio-Suite / ComfyUI-Audio (`diodiogod/TTS-Audio-Suite`)](https://github.com/diodiogod/TTS-Audio-Suite)** [![GitHub_Stars](https://img.shields.io/github/stars/diodiogod/TTS-Audio-Suite?style=social&color=white)](https://github.com/diodiogod/TTS-Audio-Suite/stargazers)  
   Modular node-based audio workstation extension for ComfyUI enabling end-to-end visual pipelines with ACE-Step, MusicGen, Bark, and Demucs.
 
-- **[MidiTok (`Natooz/MidiTok`)](https://github.com/Natooz/MidiTok)** [![GitHub stars](https://img.shields.io/github/stars/Natooz/MidiTok?style=social&color=white)](https://github.com/Natooz/MidiTok/stargazers)  
+- **[MidiTok (`Natooz/MidiTok`)](https://github.com/Natooz/MidiTok)** [![GitHub_Stars](https://img.shields.io/github/stars/Natooz/MidiTok?style=social&color=white)](https://github.com/Natooz/MidiTok/stargazers)  
   Fast Python tokenization library for MIDI scores and symbolic music composition with Transformer and LLM tokenizers (REMI, Octuple, MuMIDI).
 
-- **[SongGen (`LiuZH-19/SongGen`)](https://github.com/LiuZH-19/SongGen)** [![GitHub stars](https://img.shields.io/github/stars/LiuZH-19/SongGen?style=social&color=white)](https://github.com/LiuZH-19/SongGen/stargazers)  
+- **[SongGen (`LiuZH-19/SongGen`)](https://github.com/LiuZH-19/SongGen)** [![GitHub_Stars](https://img.shields.io/github/stars/LiuZH-19/SongGen?style=social&color=white)](https://github.com/LiuZH-19/SongGen/stargazers)  
   Single-stage autoregressive transformer architecture for full-track song generation incorporating conditioned lyrics and rhythm controls.
 
-- **[Anticipatory Music Transformer (`jthickstun/anticipation`)](https://github.com/jthickstun/anticipation)** [![GitHub stars](https://img.shields.io/github/stars/jthickstun/anticipation?style=social&color=white)](https://github.com/jthickstun/anticipation/stargazers)  
+- **[Anticipatory Music Transformer (`jthickstun/anticipation`)](https://github.com/jthickstun/anticipation)** [![GitHub_Stars](https://img.shields.io/github/stars/jthickstun/anticipation?style=social&color=white)](https://github.com/jthickstun/anticipation/stargazers)  
   Symbolic music generation model implementing the Anticipation architecture for real-time interactive accompaniments and musical filling.
 
 
